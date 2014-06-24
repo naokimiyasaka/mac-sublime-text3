@@ -1,0 +1,562 @@
+{
+	"folder_history":
+	[
+		"/Users/naokimiyasaka/work/root"
+	],
+	"last_version": 3059,
+	"last_window_id": 18,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 829.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 162.0,
+				"selected_items":
+				[
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"prefa",
+						"Preferences: Settings - Default"
+					],
+					[
+						"preferences",
+						"Preferences: Settings - User"
+					]
+				],
+				"width": 489.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/Users/naokimiyasaka/work/root/node/utility.js",
+				"/Users/naokimiyasaka/work/root/node/tools/stress/user_info.sql",
+				"/Users/naokimiyasaka/work/root/ChatLib/libs/kingnarestyle.swc",
+				"/Users/naokimiyasaka/work/root/Backstage/Program/XdLib/QueryBasic.cs",
+				"/Users/naokimiyasaka/work/root/GameBattleSwf/locale/ja_JP/TaskEndInfo.properties",
+				"/Users/naokimiyasaka/work/root/XD/src/php_include/mysqlconnect.php",
+				"/Users/naokimiyasaka/work/root/XD/src/amfphp/Com/farm.php",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/BotCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/BossWarCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/BattleCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/AVGCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/ArrangementCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/AnnouncementCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/events/AVGEditerEvent.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/events/PaginateEvent.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/models/RedEnvelopeProxy.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/events/PureEvent.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/RedEnvelopeCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/utils/EffectViewStack.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/utils/ErrorCode.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/models/ExploreProxy.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/models/EnhancementProxy.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/ExploreCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/EnhancementCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/views/AppMediator.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/XDConfig.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/AppFacade.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/MapCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/caurina/transitions/TweenListObj.as",
+				"/Users/naokimiyasaka/work/root/XD/src/css/flex_skins.css",
+				"/Users/naokimiyasaka/work/root/XD/src/addPoint.php",
+				"/Users/naokimiyasaka/work/root/XD/src/battle_config.php",
+				"/Users/naokimiyasaka/work/root/XD/src/php_include/composite_list.php",
+				"/Users/naokimiyasaka/work/root/XD/src/redirect.php",
+				"/Users/naokimiyasaka/work/root/XD/.actionScriptProperties",
+				"/Users/naokimiyasaka/work/root/deploy/db/update/xd_diff.sql",
+				"/Users/naokimiyasaka/work/root/XD/xcopy.bat",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/Users/naokimiyasaka/work/root/node/node_modules/date-utils/test/date-validate-test.js",
+				"/Users/naokimiyasaka/work/root/XD/src/amfphp/Com/award.php",
+				"/Users/naokimiyasaka/work/root/XD/src/amfphp/Com/battle.php",
+				"/Users/naokimiyasaka/work/root/admintool/index.php",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Main.sublime-menu",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Indentation.sublime-menu.jp",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Context.sublime-menu.jp",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/ConvertToUTF8/Main.sublime-menu",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Side Bar Mount Point.sublime-menu.jp",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Side Bar.sublime-menu.jp",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Tab Context.sublime-menu.jp",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Main.sublime-menu",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/Users/naokimiyasaka/work/root/GameBattleSwf/locale/ja_JP/ItemName.properties",
+				"/Users/naokimiyasaka/work/root/node/activityTimer.js"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 91.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"エンコード"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"index",
+						"admintool/index.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 374.0,
+				"selected_items":
+				[
+					[
+						"",
+						"-1 for 1 hour ago"
+					]
+				],
+				"width": 633.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 250.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1660.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 96.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"mini",
+						"View: Toggle Minimap"
+					],
+					[
+						"sh",
+						"SublimeREPL: Shell"
+					],
+					[
+						"SH",
+						"SublimeREPL: Shell"
+					],
+					[
+						"O",
+						"Open in terminal"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"shell",
+						"SublimeREPL: Shell"
+					],
+					[
+						"add r",
+						"Package Control: Add Repository"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"prefa",
+						"Preferences: Settings - Default"
+					],
+					[
+						"preferences",
+						"Preferences: Settings - User"
+					]
+				],
+				"width": 489.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/MacTerminal/Default.sublime-keymap",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/MacTerminal/MacTerminal.sublime-settings",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/User/MacTerminal.sublime-settings",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/naokimiyasaka/work/root/XD/src/php_include/mysqlconnect.php",
+				"/Users/naokimiyasaka/work/root/XD/src/amfphp/Com/award.php",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/naokimiyasaka/work/root/XD/src/php_include/honor_list.php",
+				"/Users/naokimiyasaka/work/root/node/serverWork.js",
+				"/Users/naokimiyasaka/work/root/node/bossWar.js",
+				"/Users/naokimiyasaka/work/root/node/bossTimer.js",
+				"/Users/naokimiyasaka/work/root/node/worldServer.js",
+				"/Users/naokimiyasaka/work/root/node/test/test.activityTimer.js",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+				"/Users/naokimiyasaka/work/root/node/utility.js",
+				"/Users/naokimiyasaka/work/root/node/tools/stress/user_info.sql",
+				"/Users/naokimiyasaka/work/root/ChatLib/libs/kingnarestyle.swc",
+				"/Users/naokimiyasaka/work/root/Backstage/Program/XdLib/QueryBasic.cs",
+				"/Users/naokimiyasaka/work/root/GameBattleSwf/locale/ja_JP/TaskEndInfo.properties",
+				"/Users/naokimiyasaka/work/root/XD/src/amfphp/Com/farm.php",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/BotCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/BossWarCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/BattleCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/AVGCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/ArrangementCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/AnnouncementCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/events/AVGEditerEvent.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/events/PaginateEvent.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/models/RedEnvelopeProxy.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/events/PureEvent.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/RedEnvelopeCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/utils/EffectViewStack.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/utils/ErrorCode.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/models/ExploreProxy.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/models/EnhancementProxy.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/ExploreCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/EnhancementCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/views/AppMediator.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/XDConfig.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/AppFacade.as",
+				"/Users/naokimiyasaka/work/root/XD/src/com/game/controls/MapCommand.as",
+				"/Users/naokimiyasaka/work/root/XD/src/caurina/transitions/TweenListObj.as",
+				"/Users/naokimiyasaka/work/root/XD/src/css/flex_skins.css",
+				"/Users/naokimiyasaka/work/root/XD/src/addPoint.php",
+				"/Users/naokimiyasaka/work/root/XD/src/battle_config.php",
+				"/Users/naokimiyasaka/work/root/XD/src/php_include/composite_list.php",
+				"/Users/naokimiyasaka/work/root/XD/src/redirect.php",
+				"/Users/naokimiyasaka/work/root/XD/.actionScriptProperties",
+				"/Users/naokimiyasaka/work/root/deploy/db/update/xd_diff.sql",
+				"/Users/naokimiyasaka/work/root/XD/xcopy.bat",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"/Users/naokimiyasaka/work/root/node/node_modules/date-utils/test/date-validate-test.js",
+				"/Users/naokimiyasaka/work/root/XD/src/amfphp/Com/battle.php",
+				"/Users/naokimiyasaka/work/root/admintool/index.php",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Main.sublime-menu",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Indentation.sublime-menu.jp",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Context.sublime-menu.jp",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/ConvertToUTF8/Main.sublime-menu",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Side Bar Mount Point.sublime-menu.jp",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Side Bar.sublime-menu.jp",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/Default/Tab Context.sublime-menu.jp",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Main.sublime-menu",
+				"/Users/naokimiyasaka/Library/Application Support/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/Users/naokimiyasaka/work/root/GameBattleSwf/locale/ja_JP/ItemName.properties",
+				"/Users/naokimiyasaka/work/root/node/activityTimer.js"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 91.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"alt+left",
+					"エンコード"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/naokimiyasaka/work/root"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 32.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "130 158 1660 851 0 0 1920 1058 ",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"index",
+						"admintool/index.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 374.0,
+				"selected_items":
+				[
+					[
+						"",
+						"-1 for 1 hour ago"
+					]
+				],
+				"width": 633.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 250.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 18,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

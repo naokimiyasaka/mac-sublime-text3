@@ -1,0 +1,31 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AndyPHP",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"EditorConfig",
+		"Goto-CSS-Declaration",
+		"HTML-CSS-JS Prettify",
+		"Japanize",
+		"MacTerminal",
+		"More Layouts",
+		"PHP Getters and Setters",
+		"SimpleClone",
+		"SublimeREPL",
+		"SuperNavigator",
+		"SyncedSideBar",
+		"Theme - Flatland",
+		"Tmux",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/wuub/SublimeREPL"
+	]
+}

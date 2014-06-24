@@ -1,0 +1,8 @@
+[
+// F3で関数の宣言元にジャンプ
+{ "keys": ["f2"], "command": "goto_definition" },
+// alt+左で戻る
+{ "keys": ["shift+f2"], "command": "jump_back" },
+// alt+右で戻ったのをまた進める
+//{ "keys": ["ctrl+alt+right"], "command": "jump_forward" },
+]
